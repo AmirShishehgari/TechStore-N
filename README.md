@@ -4,7 +4,5 @@ Project Grupp 6
 Html/CSS
 Flex/Bootstrap
 Javascript
-Photoshop/Figma
-Headless CMS
 Git/Github
 
