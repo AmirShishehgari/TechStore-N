@@ -7,11 +7,11 @@ Project Grupp 6
 We have stored our initial data in json file. Fetch API has been used to retrieve data from json file.
 We have used OO concepts to develop this cart system. Project is divided into three classes named Phone, Display and Storage.
   
-## Phone:
+### Phone:
 In Phone Class,  we have used fetch API to retrieve data from json file.
-Display:
+### Display:
 Display class is mainly focusing on display the phones(image, title. price) on interface. displayPhones, addToCart and setCartValues are the main functions that we have created to perform certain operations.
-Storage:
+### Storage:
 Storage Class is used to store, receive and update  data in local database. To perform these operations we have created 6 different functions. Name of these functions are db, getUserItem, saveCart, getSaveCart, saveTotalAmount, getTotalAmount.
 
 ## Fetch API: 
