@@ -24,7 +24,7 @@ There were a couple of difficulties during the development process.
 
 ## Tools & technologies:
 
-Below is a list of tools and technologies that we have used for development are:
+Below is a list of tools and technologies that we have used for development:
 Html/CSS
 Flex/Bootstrap
 Javascript
